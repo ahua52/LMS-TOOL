@@ -84,4 +84,3 @@ export default ({ command } : { command: string}) => {
     },
   }
 }
-
